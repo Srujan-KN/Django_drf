@@ -1,0 +1,7 @@
+{
+    "id": 3,
+    "name": "nirmaddee",
+    "description": "This is used for cleaning as well",
+    "price": "300",
+    "qty": "6"
+}
